@@ -1,4 +1,3 @@
-助教老师好，文件夹内包含源代码和报告，各源代码内容如下：
 function_tools.py为程序用到的一些函数；
 linear.py为直线拟合；
 parallel_linear.py为平行直线拟合；
