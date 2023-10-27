@@ -7,4 +7,3 @@ robust_test_nonlinear.py为加入外点的曲线拟合；
 optimize.py为优化曲线拟合；
 test.py为对拟合效果的误差计算；
 由于噪声和算法本身的随机性，实际运行结果可能与报告有出入。
-谢谢老师！

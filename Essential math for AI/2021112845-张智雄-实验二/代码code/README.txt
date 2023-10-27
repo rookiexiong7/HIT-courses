@@ -10,4 +10,3 @@
 	output文件夹内包含rpca输出的png文件夹images，以及M,L,S三个矩阵的npy文件
 	k.npy是test_of_pca.py运行结果
 	/output/images内为实际rpca运行结果。
-谢谢老师！
