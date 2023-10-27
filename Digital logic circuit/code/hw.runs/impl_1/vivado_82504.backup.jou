@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Nov 27 00:16:27 2022
+# Process ID: 82504
+# Current directory: C:/Users/ETERNITY/hw/hw.runs/impl_1
+# Command line: vivado.exe -log car.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source car.tcl -notrace
+# Log file: C:/Users/ETERNITY/hw/hw.runs/impl_1/car.vdi
+# Journal file: C:/Users/ETERNITY/hw/hw.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source car.tcl -notrace

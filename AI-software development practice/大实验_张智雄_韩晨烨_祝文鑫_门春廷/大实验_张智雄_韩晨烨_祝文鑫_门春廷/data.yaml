@@ -1,0 +1,8 @@
+# 上面那三个txt文件的位置
+train: E:\AIoT\laboro_tomato/VOCTrainVal/TrainVal_train.txt
+val: E:\AIoT\laboro_tomato/VOCTrainVal/TrainVal_val.txt
+test: E:\AIoT\laboro_tomato/VOCTest/Test_test.txt
+# number of classes
+nc: 3  # 修改为自己的类别数量
+# class names
+names: ["riped", "reddish", "breaking", "unriped"]   # 自己来的类别名称  0 ,1 , 2

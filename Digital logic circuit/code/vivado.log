@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 19 17:29:22 2022
+# Process ID: 71672
+# Current directory: C:/Users/ETERNITY/hw
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent65428 C:\Users\ETERNITY\hw\hw.xpr
+# Log file: C:/Users/ETERNITY/hw/vivado.log
+# Journal file: C:/Users/ETERNITY/hw\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ETERNITY/hw/hw.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/ETERNITY/for' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2020.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Nov 19 17:29:43 2022...

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 19 17:29:22 2022
+# Process ID: 71672
+# Current directory: C:/Users/ETERNITY/hw
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent65428 C:\Users\ETERNITY\hw\hw.xpr
+# Log file: C:/Users/ETERNITY/hw/vivado.log
+# Journal file: C:/Users/ETERNITY/hw\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ETERNITY/hw/hw.xpr
+update_compile_order -fileset sources_1

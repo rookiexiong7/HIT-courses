@@ -1,0 +1,21 @@
+老师好，
+作业报告为本人写作业时的一些记录以及感想
+核心代码截图以及运行结果截取了程序中关键部分，以及记录了较为冗长的角谷猜想验证序列
+c++文件夹中为所有源程序文件，其中
+data.txt为包含100000组随机生成数据的用于测试三种排序方式的测试数据
+data_recursion.txt为包含100组数据的测试三种递归排序方式的测试数据
+results.txt为100000组排序的输出数据，递归排序由于数据量较小在程序中直接输出
+data.cpp 生成测试数据data.txt
+sort_Bubble.cpp 普通冒泡排序
+recursion_Bubble_1.cpp 递归加循环冒泡排序
+recursion_Bubble_2.cpp 纯递归冒泡排序
+sort_Selection.cpp 普通选择排序
+recursion_Selection_1.cpp 递归加循环选择排序
+recursion_Selection_2.cpp 纯递归选择排序
+sort_Insertion.cpp 普通插入排序
+recursion_Insertion.cpp 递归加循环插入排序
+Hanoi_recursion.cpp 递归实现汉诺塔问题
+Hanoi_stack.cpp 栈实现汉诺塔问题
+jiaogu.cpp 普通验证角谷猜想
+jiaogu_recursion.cpp 递归验证角谷猜想
+

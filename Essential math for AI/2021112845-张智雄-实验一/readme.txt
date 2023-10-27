@@ -1,0 +1,11 @@
+助教老师好，文件夹内包含源代码和报告，各源代码内容如下：
+function_tools.py为程序用到的一些函数；
+linear.py为直线拟合；
+parallel_linear.py为平行直线拟合；
+nonlinear.py为曲线拟合；
+robust_test_linear.py为加入外点的直线拟合；
+robust_test_nonlinear.py为加入外点的曲线拟合；
+optimize.py为优化曲线拟合；
+test.py为对拟合效果的误差计算；
+由于噪声和算法本身的随机性，实际运行结果可能与报告有出入。
+谢谢老师！

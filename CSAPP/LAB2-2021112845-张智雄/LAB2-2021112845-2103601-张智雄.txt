@@ -1,0 +1,5 @@
+All your base are belong to us.
+1 2 4 8 16 32 64
+4 535
+108 2
+llllla
