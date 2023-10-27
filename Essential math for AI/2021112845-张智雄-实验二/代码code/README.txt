@@ -1,4 +1,3 @@
-助教老师好，文件夹内包含源代码和报告，
 各源代码内容如下：
 	file_operations.py为读取数据的一些函数；
 	RPCA.py为Robust-PCA的封装函数；
