@@ -1,0 +1,4 @@
+2105	Alan	Lecturer	math	123-4562
+2301	Bill	Associate Professor	CV	987-6543
+1903	Alice	Professor	CPU	111-2221
+1806	Clark	Assistant Professor	CV	818-5234

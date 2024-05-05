@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "debug",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/tools/system",
+        "miDebuggerServerAddress": "127.0.0.1:1234",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "preLaunchTask": "run"
+      }
+    ]
+  }

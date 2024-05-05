@@ -1,0 +1,9 @@
+﻿  Server.cpp
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(242,18): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(304,20): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(318,31): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(319,28): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(344,19): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(372,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\study\computernetwork\lab2\GBN\Server\Server\Server.cpp(382,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  Server.vcxproj -> D:\study\computernetwork\lab2\GBN\Server\Debug\Server.exe

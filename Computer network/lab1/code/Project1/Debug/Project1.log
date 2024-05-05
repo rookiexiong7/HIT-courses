@@ -1,0 +1,9 @@
+﻿  lab1.cpp
+D:\study\computernetwork\Project1\Project1\lab1.cpp(71,8): warning C4101: “dwThreadID”: 未引用的局部变量
+D:\study\computernetwork\Project1\Project1\lab1.cpp(176,14): warning C4101: “clientAddr”: 未引用的局部变量
+D:\study\computernetwork\Project1\Project1\lab1.cpp(384,13): warning C4101: “ptr”: 未引用的局部变量
+D:\study\computernetwork\Project1\Project1\lab1.cpp(411,13): warning C4101: “ptr”: 未引用的局部变量
+D:\study\computernetwork\Project1\Project1\lab1.cpp(464,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\computernetwork\Project1\Project1\lab1.cpp(477,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\computernetwork\Project1\Project1\lab1.cpp(483,13): warning C4101: “ptr”: 未引用的局部变量
+  Project1.vcxproj -> D:\study\computernetwork\Project1\Debug\Project1.exe

@@ -1,0 +1,17 @@
+HTTP/1.1 200 200
+Server:  
+Date: Sun, 29 Oct 2023 12:36:35 GMT
+Content-Length: 0
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Frame-Options: SAMEORIGIN
+X-Application-Context: application
+X-Frame-Options: SAMEORIGIN
+
+64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://hitgs.hit.edu.cn/zhxw/list.htm
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Cookie: JSESSIONID=A17F24A6BE2BEAC2616094D6016D9660
+

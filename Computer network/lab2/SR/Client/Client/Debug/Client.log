@@ -1,0 +1,7 @@
+﻿  client.cpp
+D:\study\computernetwork\lab2\SR\Client\Client\client.cpp(97,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\SR\Client\Client\client.cpp(98,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\SR\Client\Client\client.cpp(137,19): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\SR\Client\Client\client.cpp(157,18): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\study\computernetwork\lab2\SR\Client\Client\client.cpp(77,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Client.vcxproj -> D:\study\computernetwork\lab2\SR\Client\Debug\Client.exe

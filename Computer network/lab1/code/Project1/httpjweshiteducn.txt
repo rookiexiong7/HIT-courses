@@ -1,0 +1,106 @@
+HTTP/1.1 200 OK
+Server: Server           
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Set-Cookie: JSESSIONID=363E00DC6848DE2D221F4088F1C13693; Path=/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: zh-CN
+Content-Length: 5029
+Date: Sat, 21 Oct 2023 02:58:37 GMT
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>本科生网上服务系统</title>
+
+
+<link href="/resources/css/common/style.css" rel="stylesheet" type="text/css" />
+<link href="/resources/css/common/content.css" rel="stylesheet" type="text/css" />
+<link href="/resources/css/common/pageTag.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/resources/js/jquery/jquery-1.7.2.min.js"></script>
+
+ <script src="/resources/js/jquery/jquery.form.js"  type="text/javascript"></script>
+<script type="text/javascript" src="/resources/js/common/validator.js" ></script>
+<script type="text/javascript" src="/resources/js/common/jqcheckBox.js"></script>
+<script type="text/javascript" src="/resources/js/jquery/jquery.chained.remote.js"></script>
+<script type="text/javascript" src="/resources/js/common/jqreload.js"></script>
+<style type="text/css">
+	html, body { height:100%; }
+	.Contentbox { width:100%; min-height:100%;height:auto }
+	*html .Contentbox { height:100% }
+</style>
+<link href="/resources/css/common/style1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/resources/js/common/modalpopup.js"></script>
+<script type="text/javascript">
+$().ready(function(){
+ //document.getElementById("sp").click();
+	
+});
+function ts(){
+
+BOX_show('NeworEdit1');
+}
+</script>
+
+</head>
+<body style=" overflow-y:hidden;" scroll="no" onload="ts();">
+<div class="box">
+  <a href="/queryWsyyIndex"><div class="login_but" id="sp">统一身份认证登录</div></a>
+  <a href="/tologin"><div class="login_but mt20">其他用户</div></a>
+  
+  <div class="zysx_text">
+	<p>登录：</p>
+	<p>本系统为全校本科生提供材料制作预约、学生证补办、成绩查询等网上服务，在校园网内、外均可经由“统一身份认证登录”入口登录。</p>
+	<p>&nbsp;</p>
+	
+	<p>材料预约：</p>
+	<p>1. 疫情防控期间不能返校的学生，在预约时可选择“扫描版（邮件发送）” 或“纸质版（顺丰快递到付）”方式获取材料；返校学生可在预约时选择“师生服务中心现场自行打印”。</p>
+	<p>2. 需要为<span class="red bold">毕业证复印件或学位证复印件盖章</span>的学生，请在“备注”一栏注明，并将毕业证或学位证扫描件发送至邮箱ucs@hit.edu.cn，同时邮件中需注明学号及姓名。 </p>
+	<p>3. 需要办理<span class="red bold">材料密封</span>的学生务必在“备注”一栏中注明，并写清密封材料内容、份数。</p>
+	<p>4. 如遇已付费但系统显示付费未完成的情况，可进入“已预约信息”中点击预约记录后的按钮进行缴费复查。</p>
+	<p>5. 申请电子版材料的同学在预约成功后超过2个工作日仍未收到回复邮件，或申请纸质版材料的同学在预约成功后2个工作日仍未收到顺丰快递已发出的提示信息（请提前用预留手机号绑定顺丰公众号），可发送邮件至ucs@hit.edu.cn或拨打电话0451-86210167询问。</p>
+	<p>&nbsp;</p>
+	<p>学生证（含购票优惠卡）补办：</p>
+	<p>缴费成功后，请持本人壹寸照片1张到师生服务中心本科生院窗口办理。</p>
+  </div>
+
+</div>
+ 
+<!--查询抽签结果-->
+<div id="NeworEdit1" style="display:none; width: 650px;border: 1px solid #2c4f72;-webkit-box-shadow: 0px 0px 5px #000;-moz-box-shadow: 0px 0px 5px #000;box-shadow: 0px 0px 5px #000; " >
+        <div class="Floatleft Pct100 popup_bg">
+            <div class="popup_left">提示</div>
+<!--            <a href="#" class="btn_close" onclick="javascript:BOX_remove('NeworEdit1');return false;"></a> </div>-->
+            <div class="clr"></div>
+         <div class="popup">
+           </div>
+	       <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse" class="addlist" id="divtab">
+		      <tr>
+			         <td style="text-align: ;font-weight: bold">
+			             <p>同学们请注意：</p>
+					<p>1、预约成绩单等材料时，缴费后请务必到“已预约信息”页面中查询一下缴费完成状态，如果是“未完成”状态，请点击最后操作列中的“复查”按钮，复查成功后才能够在自助机上进行打印！</p>
+			        	<p>2、寒暑假期间，每周周一（春节期间除外）集中制作和发送电子成绩单。请同学们耐心等待。</p>
+				</td>
+		      </tr>
+        	 <tr>
+	          <td colspan="2">
+	          <div style="float:right" class="addlist_button1 ml15"><a onclick="javascript:BOX_remove('NeworEdit1');return false;" ><span>确定</span></a> </div>
+	          </td>
+	        </tr>		    
+	     </table>
+	    <div class="clr"></div>
+    </div>
+</form>
+</div>
+<div id="setting"> </div>
+</body>
+</html>

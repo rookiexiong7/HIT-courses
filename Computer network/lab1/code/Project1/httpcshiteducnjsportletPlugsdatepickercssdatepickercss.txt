@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server:  
+Date: Sat, 21 Oct 2023 02:15:44 GMT
+Content-Type: text/css
+Content-Length: 1456
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Frame-Options: SAMEORIGIN
+Last-Modified: Thu, 07 Sep 2017 01:15:30 GMT
+ETag: "15e0-5588f323d5080-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+
+‹
