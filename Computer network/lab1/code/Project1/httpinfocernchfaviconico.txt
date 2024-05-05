@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 21 Oct 2023 02:11:59 GMT
+Server: Apache
+Last-Modified: Fri, 18 Jan 2008 15:26:11 GMT
+ETag: "57e-44400c31d2ac0"
+Accept-Ranges: bytes
+Content-Length: 1406
+Connection: close
+Content-Type: image/vnd.microsoft.icon
+

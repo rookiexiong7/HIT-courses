@@ -1,0 +1,12 @@
+﻿  Client.cpp
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(173,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(174,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(229,19): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(255,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(265,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(313,18): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(377,20): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(151,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(186,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\study\computernetwork\lab2\GBN\Client\Client\Client.cpp(215,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Client.vcxproj -> D:\study\computernetwork\lab2\GBN\Client\Debug\Client.exe

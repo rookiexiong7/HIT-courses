@@ -1,0 +1,6 @@
+﻿  server.cpp
+D:\study\computernetwork\lab2\SR\Server\Server\server.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\study\computernetwork\lab2\SR\Server\Server\server.cpp(42,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\study\computernetwork\lab2\SR\Server\Server\server.cpp(197,18): warning C4309: “=”: 截断常量值
+D:\study\computernetwork\lab2\SR\Server\Server\server.cpp(264,20): warning C4309: “=”: 截断常量值
+  Server.vcxproj -> D:\study\computernetwork\lab2\SR\Server\Debug\Server.exe

@@ -1,0 +1,5 @@
+1001	DeepLearning	3
+1002	OS	3
+1003	CPU_design	2
+1004	math1	3
+1005	math2	3

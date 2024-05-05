@@ -1,0 +1,10 @@
+123456	Alice Johnson	2002/5/15	Female	123-4567
+234567	Bob Smith	2003/8/22	Male	987-6543
+345678	Emily Davis	2005/11/30	Female	111-2222
+456789	Michael Brown	2003/2/10	Male	555-5555
+567890	Sophia Miller	2005/7/18	Female	876-5432
+678901	James Wilson	2004/4/5	Male	333-3333
+789012	Olivia Jones	2003/9/12	Female	444-4444
+890123	Liam Taylor	2002/1/25	Male	666-6666
+901234	Emma Moore	2001/6/8	Female	777-7777
+123345	Aiden Anderson	2003/12/3	Male	888-8888

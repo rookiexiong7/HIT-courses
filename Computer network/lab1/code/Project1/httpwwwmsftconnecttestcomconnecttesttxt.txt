@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Length: 22
+Date: Sun, 29 Oct 2023 12:36:17 GMT
+Connection: close
+Content-Type: text/plain
+Cache-Control: max-age=30, must-revalidate
+
+Microsoft Connect Test

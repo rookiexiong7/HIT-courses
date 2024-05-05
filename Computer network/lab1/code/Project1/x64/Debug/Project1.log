@@ -1,0 +1,9 @@
+﻿  lab1.cpp
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(71,8): warning C4101: “dwThreadID”: 未引用的局部变量
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(248,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(176,14): warning C4101: “clientAddr”: 未引用的局部变量
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(384,13): warning C4101: “ptr”: 未引用的局部变量
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(411,13): warning C4101: “ptr”: 未引用的局部变量
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(488,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\computernetwork\lab1\code\Project1\lab1.cpp(483,13): warning C4101: “ptr”: 未引用的局部变量
+  Project1.vcxproj -> D:\study\computernetwork\lab1\code\x64\Debug\Project1.exe
