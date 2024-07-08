@@ -1,0 +1,62 @@
+Student ID: 2021112845
+1. Which degree are you studying towards?
+Bachelor egree
+2. Which year of your degree are you currently in?
+Sophomore
+3. What is your gender?
+Male
+4. Have you worked on any software projects outside of university, e.g., for a company?
+No at the moment
+5. Before taking this course, have you made any contributions to an Open Source project?
+No，just have the experience of using github to download and clone repositories.
+6. Did you already have an account on github.com before starting this course?
+Yes,I did.
+7. What challenges do you expect to encounter when trying to make a source code contribution to an Open Source project?
+First of all, communication maybe the barriers. Then, it may take some time to understand the structure, functionality, and code style of an open source project. Last, we need to meet the project's criteria, including code style, documentation comments, unit tests and so on, which may be a challenge to our coding ability.
+8. Which of the following is part of the Open Source Definition by the Open Source Initiative?
+
+  No Discrimination Against Persons or Groups 
+  Copyright Agreement 
+  Pull Request Model 
+  Documentation of Contributing Guidelines 
+
+Answer: No Discrimination Against Persons or Groups
+
+9. Which of the following statements is true about repositories in decentralised version control systems?
+
+  Each developer has her own repository 
+  There is a single, master repository 
+  All repositories are hosted on GitHub 
+  Clone and checkout are identical operations 
+
+Answer: Each developer has her own repository
+
+10. Which of the following definitions is not correct?
+
+  Continuous Pull Requests: A practice where contributors to open source projects keep updating their pull requests until the maintainer is satisfied. 
+  Continuous Deployment: A practice where incremental software changes are automatically tested, vetted, and deployed to production environments. 
+  Continuous Delivery: A practice that ensures that a software change can be delivered and ready for use by a customer by testing in production-like environments. 
+  Continuous Integration: A practice where developers automatically build, test, and analyze a software change in response to every software change committed to the source repository.
+
+Answer: Continuous Pull Requests: A practice where contributors to open source projects keep updating their pull requests until the maintainer is satisfied. 
+
+11. I feel comfortable asking for help from the Open Source community using electronic communication means.
+Agree
+12. I can write my questions and understand answers in English.
+Agree
+13. I am good in understanding code written by other people.
+Neutral
+14. I have pretty good skills to write and change code.
+Neutral
+15. I feel comfortable with the process of contributing to an Open Source project.
+Strongly agree
+16. I think that contributing to an Open Source software project is an interesting activity.
+Strongly agree
+17. I feel I can set up and run an application if a set of instructions is properly given.
+Agree
+18. I am pretty good at searching for solutions and understanding technical issues by myself.
+Agree
+19. I can choose an adequate task to fix if a list of tasks is given.
+Neutral
+20. I can find the piece of code that needs to be fixed given a bug report presenting the issue.
+Neutral

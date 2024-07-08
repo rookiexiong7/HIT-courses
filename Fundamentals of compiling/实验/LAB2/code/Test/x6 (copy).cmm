@@ -1,0 +1,11 @@
+struct Position
+{
+  int y;
+};
+
+int main()
+{
+	int x;
+	struct Position x;
+}
+

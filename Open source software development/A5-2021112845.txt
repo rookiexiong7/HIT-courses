@@ -1,0 +1,108 @@
+A5-2021112845
+
+1. Which of the following statements is not true about open source governance?
+
+Answer: Roles need to be defined in a ROLES.md file on GitHub
+
+2. Which of the following activities will likely not help newcomers contribute to a project?
+
+Answer: Simplify the contribution process by removing the code of conduct
+
+3. If project X is a software project licenced under a copyleft licence, which of the following statements is true?
+
+Answer: Any work that you distribute or publish, that in whole or in part contains or is derived from X or any part thereof, has to be licensed as a whole at no charge to all third parties under the term of the same licence.
+
+4. Did you use a website such as https://goodfirstissues.com/ to select an issue to contribute to?
+
+Answer: Yes, our team use the website named https://goodfirstissues.com/ to select an issue to contribute to.
+
+5. How many issues did you look at before deciding on which one to contribute to?
+
+Answer:  5 to 10
+
+6. What was your main method of searching for issues on the website? (Choose all that apply)
+
+Answer:  Browsing through the list, Filtering by Programming Language, Filtering by Issue Label
+
+7. What factors were most important to you when selecting an issue? (Choose all that apply)
+
+Answer:  Programming language used in the project, The extent of the issue's description and instructions, Difficulty of the issue
+
+8. How would you rate the clarity of the issue description that you chose to work on?
+
+Answer:  Somewhat clear
+
+9. How much time did you spend understanding the issue before you began to work on it?
+
+Answer:  1 to 3 hours
+
+10. What additional features would you like to see on websites such as goodfirstissues.com? (Choose all that apply)
+
+Answer: 1.A rating system for the complexity of the issues
+        2.Filters for issues based on project size (small, medium, large)
+ 	3.A system for bookmarking or saving issues for later review
+ 	4.More detailed descriptions of the issues
+ 	5.Estimated time required to solve the issue
+ 	6.Links to relevant learning resources or documentation
+ 	7.A section with tips or guidelines on how to approach solving the issue
+ 	8.A communication platform or forum for discussing the issues
+ 	9.Ability to sort issues by recentness, popularity, or difficulty level
+	10.A mentorship or pairing system for newcomers
+ 	11.Filters for issues based on specific areas of interest (e.g., Machine Learning, Web Development)
+ 	12.Issue ranking based on popularity or usefulness for beginners
+ 	13.Option to rate or review project maintainers or their responses
+
+11. Please select below challenges you have faced when installing software development tools in the past (Choose all that apply)
+
+Answer: 1.Unclear instructions: installation instructions provided are not clear
+ 	2.Dysfunctional Instructions: instructions do not work
+	3.Poorly-structured information: source is not user-friendly
+ 	4.Account required: tool requires the user to create an account on their platform
+
+12. Please select below the strategies you usually apply when you face challenges installing software development tools (Choose all that apply)
+
+Answer: 1.Searching for different documentation: participant tries to search what they want on different source    
+ 	2.Reading help or feedback in terminal: participant uses the terminal instructions to find the answer they’re looking for      
+ 	3.Web searching: the participant searches for information on the web  
+ 	4.Resetting the terminal: the participant opens a new tab on the terminal and it solves the problem  
+ 	5.Reinstalling: reinstalling the tool solves the problem   
+
+13. I feel comfortable asking for help from the Open Source community using electronic communication means.
+
+Answer: Neutral
+
+14. I can write my questions and understand answers in English.
+
+Answer: Agree
+
+15. I am good in understanding code written by other people.
+
+Answer: Neutral
+
+16. I have pretty good skills to write and change code.
+
+Answer: Neutral
+
+17. I feel comfortable with the process of contributing to an Open Source project.
+
+Answer: Strongly agree
+
+18. I think that contributing to an Open Source software project is an interesting activity.
+
+Answer: Strongly agree
+ 
+19. I feel I can set up and run an application if a set of instructions is properly given.
+
+Answer: Agree
+
+20. I am pretty good at searching for solutions and understanding technical issues by myself.
+
+Answer: Agree
+
+21. I can choose an adequate task to fix if a list of tasks is given.
+
+Answer: Neutral
+
+22. I can find the piece of code that needs to be fixed given a bug report presenting the issue.
+
+Answer: Neutral
