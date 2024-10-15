@@ -1,0 +1,135 @@
+
++----------------------------------------+
+current pid: 2
+argc: 1	envc: 1
+file /bin/sh head information as exec:
+	a_magic: 	10b
+	a_text: 	41000
+	a_data: 	4000
+	a_bss: 	1bb8
+	a_syms: 	0
+	a_entry: 	0
+	a_trsize: 	0
+	a_drsize: 	0
+******************************************
+current task information after modified:
+	ldt[1]( 0~31):	40
+	ldt[1](32~63):	8c0fb00
+	ldt[2]( 0~31):	3fff
+	ldt[2](32~63):	8c0f300
+	current->brk: 	46bb8
+	current->end_data: 	45000
+	current->end_code: 	41000
+	current->start_stack: 	3fff000
+	old eip:	1b013	29f04
+	new eip:	0	3ffffd0
+
++----------------------------------------+
+
++----------------------------------------+
+current pid: 3
+argc: 1	envc: 8
+file  head information as exec:
+	a_magic: 	10b
+	a_text: 	1000
+	a_data: 	1000
+	a_bss: 	0
+	a_syms: 	1f8
+	a_entry: 	0
+	a_trsize: 	0
+	a_drsize: 	0
+******************************************
+current task information after modified:
+	ldt[1]( 0~31):	0
+	ldt[1](32~63):	cc0fb00
+	ldt[2]( 0~31):	3fff
+	ldt[2](32~63):	cc0f300
+	current->brk: 	2000
+	current->end_data: 	2000
+	current->end_code: 	1000
+	current->start_stack: 	3fff000
+	old eip:	3986c	3fffcb0
+	new eip:	0	3ffff20
+
++----------------------------------------+
+
++----------------------------------------+
+current pid: 4
+argc: 1	envc: 1
+file /bin/sh head information as exec:
+	a_magic: 	10b
+	a_text: 	41000
+	a_data: 	4000
+	a_bss: 	1bb8
+	a_syms: 	0
+	a_entry: 	0
+	a_trsize: 	0
+	a_drsize: 	0
+******************************************
+current task information after modified:
+	ldt[1]( 0~31):	40
+	ldt[1](32~63):	8c0fb00
+	ldt[2]( 0~31):	3fff
+	ldt[2](32~63):	8c0f300
+	current->brk: 	46bb8
+	current->end_data: 	45000
+	current->end_code: 	41000
+	current->start_stack: 	3fff000
+	old eip:	1b013	29f04
+	new eip:	0	3ffffc8
+
++----------------------------------------+
+
++----------------------------------------+
+current pid: 6
+argc: 1	envc: 10
+file  head information as exec:
+	a_magic: 	10b
+	a_text: 	4000
+	a_data: 	1000
+	a_bss: 	0
+	a_syms: 	7a4
+	a_entry: 	0
+	a_trsize: 	0
+	a_drsize: 	0
+******************************************
+current task information after modified:
+	ldt[1]( 0~31):	3
+	ldt[1](32~63):	10c0fb00
+	ldt[2]( 0~31):	3fff
+	ldt[2](32~63):	10c0f300
+	current->brk: 	5000
+	current->end_data: 	5000
+	current->end_code: 	4000
+	current->start_stack: 	3fff000
+	old eip:	3986c	3fffd1c
+	new eip:	0	3ffff00
+
++----------------------------------------+
+
++----------------------------------------+
+current pid: 8
+argc: 1	envc: 10
+file  head information as exec:
+	a_magic: 	10b
+	a_text: 	1000
+	a_data: 	1000
+	a_bss: 	0
+	a_syms: 	0
+	a_entry: 	0
+	a_trsize: 	0
+	a_drsize: 	0
+******************************************
+current task information after modified:
+	ldt[1]( 0~31):	0
+	ldt[1](32~63):	10c0fb00
+	ldt[2]( 0~31):	3fff
+	ldt[2](32~63):	10c0f300
+	current->brk: 	2000
+	current->end_data: 	2000
+	current->end_code: 	1000
+	current->start_stack: 	3fff000
+	old eip:	3986c	3fffd1c
+	new eip:	0	3ffff00
+
++----------------------------------------+

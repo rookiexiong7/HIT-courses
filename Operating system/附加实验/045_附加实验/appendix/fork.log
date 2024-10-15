@@ -1,0 +1,546 @@
+
++-------------------------------------------------------+
+fork: find a empty space 2 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	0		f
+priority:	f		f
+exit_code:	0		0
+start_code:	4000000		8000000
+end_code:	0		0
+end_data:	0		0
+brk:		0		0
+start_stack:	0		0
+pid:		1		2
+father:		0		1
+pgrp:		0		0
+session:	0		0
+leader:		0		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		0		0
+stime:		42		0
+cutime:		0		0
+cstime:		0		0
+start_time:	1		39
+used_math:	0		0
+tty:		-1		-1
+umask:		12		12
+pwd:		2ba38		2ba38
+root:		2ba38		2ba38
+executable:	0	0
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	9f		9f
+ldt[1](32~63):	4c0fb00		8c0fb00
+ldt[2]( 0~31):	9f		9f
+ldt[2](32~63):	4c0f300		8c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	1000000		ffc000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	68ec		6aba
+tss.eflags:	206		206
+tss.eax:	0		0
+tss.ecx:	55e8		28b40
+tss.edx:	21		1a
+tss.ebx:	25000		25000
+tss.esp:	29f50		29f30
+tss.ebp:	29f68		29f68
+tss.esi:	e0000		e0000
+tss.edi:	ffc		ffc
+tss.es:		17		17
+tss.cs:		f		f
+tss.ss:		17		17
+tss.ds:		17		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	38		48
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 3 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	7		f
+priority:	f		f
+exit_code:	0		0
+start_code:	8000000		c000000
+end_code:	41000		41000
+end_data:	45000		45000
+brk:		4ec00		4ec00
+start_stack:	3fff000		3fff000
+pid:		2		3
+father:		1		2
+pgrp:		0		0
+session:	0		0
+leader:		0		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		4		0
+stime:		37		0
+cutime:		0		0
+cstime:		0		0
+start_time:	39		81
+used_math:	0		0
+tty:		-1		-1
+umask:		12		12
+pwd:		2ba38		2ba38
+root:		2ba38		2ba38
+executable:	2bdb8	2bdb8
+close_on_exec:	400		400
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	40		40
+ldt[1](32~63):	8c0fb00		cc0fb00
+ldt[2]( 0~31):	3fff		3fff
+ldt[2](32~63):	8c0f300		cc0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	ffc000		fc2000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	704f		398af
+tss.eflags:	287		246
+tss.eax:	fff000		0
+tss.ecx:	ffb000		c
+tss.edx:	30		4bac0
+tss.ebx:	25000		1c000
+tss.esp:	ffbfa0		3fffd6c
+tss.ebp:	3fffd94		3fffd78
+tss.esi:	1		1
+tss.edi:	ffc		ffc
+tss.es:		10		17
+tss.cs:		8		f
+tss.ss:		10		17
+tss.ds:		10		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	48		58
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+exit: process 2 is exiting...
+ldt[0]( 0~31):	0
+ldt[0](32~63):	0
+ldt[1]( 0~31):	40
+ldt[1](32~63):	8c0fb00
+ldt[2]( 0~31):	3fff
+ldt[2](32~63):	8c0f300
+release child process 3
+state:		3
+exit_code:		0
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 2 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	8		f
+priority:	f		f
+exit_code:	0		0
+start_code:	4000000		8000000
+end_code:	0		0
+end_data:	0		0
+brk:		0		0
+start_stack:	0		0
+pid:		1		4
+father:		0		1
+pgrp:		0		0
+session:	0		0
+leader:		0		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		0		0
+stime:		59		0
+cutime:		5		0
+cstime:		40		0
+start_time:	1		9f
+used_math:	0		0
+tty:		-1		-1
+umask:		12		12
+pwd:		2ba38		2ba38
+root:		2ba38		2ba38
+executable:	0	0
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	9f		9f
+ldt[1](32~63):	4c0fb00		8c0fb00
+ldt[2]( 0~31):	9f		9f
+ldt[2](32~63):	4c0f300		8c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	1000000		ffc000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	704f		6b71
+tss.eflags:	206		246
+tss.eax:	ffb000		0
+tss.ecx:	fff000		29f30
+tss.edx:	40		0
+tss.ebx:	25000		25000
+tss.esp:	ffff84		29f30
+tss.ebp:	29f68		29f68
+tss.esi:	25000		e0000
+tss.edi:	ffc		ffc
+tss.es:		10		17
+tss.cs:		8		f
+tss.ss:		10		17
+tss.ds:		10		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	38		48
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 4 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	0		f
+priority:	f		f
+exit_code:	0		0
+start_code:	8000000		10000000
+end_code:	41000		41000
+end_data:	45000		45000
+brk:		58c00		58c00
+start_stack:	3fff000		3fff000
+pid:		4		5
+father:		1		4
+pgrp:		4		4
+session:	4		4
+leader:		1		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		11		0
+stime:		44		0
+cutime:		0		0
+cstime:		0		0
+start_time:	9f		101
+used_math:	0		0
+tty:		0		0
+umask:		36		36
+pwd:		2be98		2be98
+root:		2ba38		2ba38
+executable:	2bdb8	2bdb8
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	40		40
+ldt[1](32~63):	8c0fb00		10c0fb00
+ldt[2]( 0~31):	3fff		3fff
+ldt[2](32~63):	8c0f300		10c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	ffc000		fab000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	6b71		398af
+tss.eflags:	246		246
+tss.eax:	0		0
+tss.ecx:	29f30		12aae
+tss.edx:	0		56d00
+tss.ebx:	25000		5882c
+tss.esp:	29f30		3fff0b4
+tss.ebp:	29f68		3fff0c0
+tss.esi:	e0000		12ac3
+tss.edi:	ffc		56ce1
+tss.es:		17		17
+tss.cs:		f		f
+tss.ss:		17		17
+tss.ds:		17		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	48		68
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+exit: process 5 is exiting...
+ldt[0]( 0~31):	0
+ldt[0](32~63):	0
+ldt[1]( 0~31):	40
+ldt[1](32~63):	10c0fb00
+ldt[2]( 0~31):	3fff
+ldt[2](32~63):	10c0f300
+state:		3
+exit_code:		0
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 4 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	0		f
+priority:	f		f
+exit_code:	0		0
+start_code:	8000000		10000000
+end_code:	41000		41000
+end_data:	45000		45000
+brk:		5e400		5e400
+start_stack:	3fff000		3fff000
+pid:		4		6
+father:		1		4
+pgrp:		4		4
+session:	4		4
+leader:		1		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		13		0
+stime:		61		0
+cutime:		0		0
+cstime:		4		0
+start_time:	9f		490
+used_math:	0		0
+tty:		0		0
+umask:		36		36
+pwd:		2be98		2be98
+root:		2ba38		2ba38
+executable:	2bdb8	2bdb8
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	40		40
+ldt[1](32~63):	8c0fb00		10c0fb00
+ldt[2]( 0~31):	3fff		3fff
+ldt[2](32~63):	8c0f300		10c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	ffc000		f9d000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	704f		398af
+tss.eflags:	206		246
+tss.eax:	25200		0
+tss.ecx:	ffb000		8
+tss.edx:	20		5ce40
+tss.ebx:	25000		14
+tss.esp:	ffbe84		3fffdd8
+tss.ebp:	3fff5a8		3fffde4
+tss.esi:	ca		1
+tss.edi:	3fffd28		ffc
+tss.es:		10		17
+tss.cs:		8		f
+tss.ss:		10		17
+tss.ds:		10		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	48		68
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+exit: process 6 is exiting...
+ldt[0]( 0~31):	0
+ldt[0](32~63):	0
+ldt[1]( 0~31):	3
+ldt[1](32~63):	10c0fb00
+ldt[2]( 0~31):	3fff
+ldt[2](32~63):	10c0f300
+state:		3
+exit_code:		0
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 4 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	1		f
+priority:	f		f
+exit_code:	0		0
+start_code:	8000000		10000000
+end_code:	41000		41000
+end_data:	45000		45000
+brk:		5e400		5e400
+start_stack:	3fff000		3fff000
+pid:		4		7
+father:		1		4
+pgrp:		4		4
+session:	4		4
+leader:		1		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		13		0
+stime:		72		0
+cutime:		0		0
+cstime:		c		0
+start_time:	9f		892
+used_math:	0		0
+tty:		0		0
+umask:		36		36
+pwd:		2be98		2be98
+root:		2ba38		2ba38
+executable:	2bdb8	2bdb8
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	40		40
+ldt[1](32~63):	8c0fb00		10c0fb00
+ldt[2]( 0~31):	3fff		3fff
+ldt[2](32~63):	8c0f300		10c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	ffc000		f9c000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	704f		398af
+tss.eflags:	206		246
+tss.eax:	25200		0
+tss.ecx:	ffb000		12aae
+tss.edx:	20		56d00
+tss.ebx:	25000		5cd6c
+tss.esp:	ffbf84		3fff0b4
+tss.ebp:	3fffe68		3fff0c0
+tss.esi:	1		12ac3
+tss.edi:	ffc		56ce1
+tss.es:		10		17
+tss.cs:		8		f
+tss.ss:		10		17
+tss.ds:		10		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	48		68
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+exit: process 7 is exiting...
+ldt[0]( 0~31):	0
+ldt[0](32~63):	0
+ldt[1]( 0~31):	40
+ldt[1](32~63):	10c0fb00
+ldt[2]( 0~31):	3fff
+ldt[2](32~63):	10c0f300
+state:		3
+exit_code:		0
++-------------------------------------------------------+
+
++-------------------------------------------------------+
+fork: find a empty space 4 in task
+Parent Process:(hex)	Child Process:(hex)
+state:		0		2
+counter:	0		f
+priority:	f		f
+exit_code:	0		0
+start_code:	8000000		10000000
+end_code:	41000		41000
+end_data:	45000		45000
+brk:		5e400		5e400
+start_stack:	3fff000		3fff000
+pid:		4		8
+father:		1		4
+pgrp:		4		4
+session:	4		4
+leader:		1		0
+uid:		0		0
+euid:		0		0
+suid:		0		0
+gid:		0		0
+egid:		0		0
+sgid:		0		0
+alarm:		0		0
+utime:		13		0
+stime:		85		0
+cutime:		0		0
+cstime:		10		0
+start_time:	9f		a4f
+used_math:	0		0
+tty:		0		0
+umask:		36		36
+pwd:		2be98		2be98
+root:		2ba38		2ba38
+executable:	2bdb8	2bdb8
+close_on_exec:	0		0
+ldt[0]( 0~31):	0		0
+ldt[0](32~63):	0		0
+ldt[1]( 0~31):	40		40
+ldt[1](32~63):	8c0fb00		10c0fb00
+ldt[2]( 0~31):	3fff		3fff
+ldt[2](32~63):	8c0f300		10c0f300
+============================================================
+tss.back_link:	0		0
+tss.esp0:	ffc000		f9d000
+tss.ss0:	10		10
+tss.esp1:	0		0
+tss.ss1:	0		0
+tss.esp2:	0		0
+tss.ss2:	0		0
+tss.cr3:	0		0
+tss.eip:	704f		398af
+tss.eflags:	206		246
+tss.eax:	25200		0
+tss.ecx:	ffb000		5
+tss.edx:	20		5d000
+tss.ebx:	25000		14
+tss.esp:	ffbe84		3fffdd8
+tss.ebp:	3fff594		3fffde4
+tss.esi:	ca		1
+tss.edi:	3fffd28		ffc
+tss.es:		10		17
+tss.cs:		8		f
+tss.ss:		10		17
+tss.ds:		10		17
+tss.fs:		17		17
+tss.gs:		17		17
+tss.ldt:	48		68
+tss.trace_bitmap:	80000000		80000000
++-------------------------------------------------------+
