@@ -111,7 +111,7 @@
     ```
 5. 将得到的执行文件 bootsect 改名为Image，放到 oslab/linux-0.11 目录下，执行语句`./dbg-bochs`即可得到如下界面。可以看到，`'ZZX os is booting...'` 语句成功显示。
 
-![bootsect显示](./images/bootsect显示.png)#pic_center
+![bootsect显示](./images/bootsect显示.png)
 
 ### 4.2 bootsect 读入 setup
 实现 setup.s 的载入，并跳转到 setup.s 开始地址执行主要包括以下几步：
