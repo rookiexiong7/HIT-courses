@@ -8,3 +8,5 @@
 有疑惑可以提issue一起讨论，也欢迎提PR进行补充~
 
 大家可以点点star呀
+
+Tips：可以通过这个网址下载子文件夹 https://download-directory.github.io/
